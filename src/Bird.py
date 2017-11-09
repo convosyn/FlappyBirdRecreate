@@ -14,7 +14,7 @@ class Bird:
 		self.cur_time_step = pg.time.get_ticks()
 		self.time_diff = 40
 		self.coords = coords
-		self.g = -10.8
+		self.g = -10
 		self.v = 0
 		self.divisor = 50
 
